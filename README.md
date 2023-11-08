@@ -1,2 +1,2 @@
 # birthdayyyy
-https://github.com/omdadhe09/birthdayyyy.git
+https://omdadhe09.github.io/birthdayyyy/
